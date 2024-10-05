@@ -15,7 +15,7 @@ It allows users to view, search, add, and delete records in a table format. The 
 - **JavaScript (ES6)** for handling dynamic functionalities like form submission, search filtering, and pagination.
 - **HTML5** for structuring the web page.
 
-### How to Install and Run Locally :--
+### Setup and Run :--
 1. **Clone the Repository :--**
       https://github.com/RamaLingeswaraRao950/Dynamic-Table.git
 2. **Install Dependencies :--**
